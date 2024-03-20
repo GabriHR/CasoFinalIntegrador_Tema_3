@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         InterfazUsuario interfazUsuario = new InterfazUsuario();
-        System.out.println("Para iniciar la simulación, por favor inicie sesión.");
+        System.out.println("Para iniciar la simulación, por favor inicie sesion.");
         System.out.println("El nombre de usuario es 'usuario' y la contraseña es 'contraseña'.");
 
         setSesionIniciada(true);
